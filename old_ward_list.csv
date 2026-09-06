@@ -1,413 +1,392 @@
-name,age,age_bucket,willing_to_pray,notes,date,old_name,last_prayed,name_updated
-"Tanner, Carter",19,Adult,Yes,,2/25/2024,"Tanner, Carter",2/25/2024,Carter Tanner
-"Robinson, Dale",66,Adult,Yes,,2/25/2024,"Robinson, Dale",2/25/2024,Dale Robinson
-"Gough, Elora",21,Adult,Yes,,5/5/2024,"Gough, Elora",5/5/2024,Elora Gough
-"Hylton, Cary",73,Adult,Yes,,5/12/2024,"Hylton, Cary",5/12/2024,Cary Hylton
-"Hylton, Paula",73,Adult,Yes,,5/12/2024,"Hylton, Paula",5/12/2024,Paula Hylton
-"Taylor, Aaron Carl",42,Adult,Yes,,,"Taylor, Aaron Carl",5/26/2024,Aaron Taylor
-"Reding, Maryann",67,Adult,Yes,,6/23/2024,"Reding, Maryann",6/23/2024,Maryann Reding
-"Strong, Fisher",20,Adult,Yes,,8/4/2024,"Strong, Fisher",8/4/2024,Fisher Strong
-"Price, Brenna",29,Adult,Yes,,9/1/2024,"Price, Brenna",9/1/2024,Brenna Price
-"Rawle, Jesse",35,Adult,Yes,,9/8/2024,"Rawle, Jesse",9/8/2024,Jesse Rawle
-"McConkie, Michael",30,Adult,Yes,,10/13/2024,"McConkie, Michael",10/13/2024,Michael McConkie
-"Tanner, Violet",11,Kid,Yes,Said she was scared to do it Feb 2026,10/27/2024,"Tanner, Violet",10/27/2024,Violet Tanner
-"Daybell, Lisa",62,Adult,Yes,,11/10/2024,"Daybell, Lisa",11/10/2024,Lisa Daybell
-"Larkin, Sheldon",82,Adult,Yes,,11/10/2024,"Larkin, Sheldon",11/10/2024,Sheldon Larkin
-"Myers, Julie",60,Adult,Yes,,11/17/2024,"Myers, Julie",11/17/2024,Julie Myers
-"Curtis, Lance",69,Adult,Yes,,11/24/2024,"Curtis, Lance",11/24/2024,Lance Curtis
-"Capozzoli, Jeff",61,Adult,Yes,,12/1/2024,"Capozzoli, Jeff",12/1/2024,Jeff Capozzoli
-"Garrett, Mckenzi Mae",16,Kid,Yes,Said no Feb 2026,,"Garrett, Mckenzi Mae",12/8/2024,Mckenzi Garrett
-"Roylance, Deann",65,Adult,Yes,,12/22/2024,"Roylance, Deann",12/22/2024,Deann Roylance
-"Roylance, Deann",65,Adult,Yes,,12/24/2023,"Roylance, Deann",12/22/2024,Deann Roylance
-"Palmer, Nathan",32,Adult,Yes,,12/29/2024,"Palmer, Nathan",12/29/2024,Nathan Palmer
-"Palmer, McKenzie",33,Adult,Yes,,12/29/2024,"Palmer, McKenzie",12/29/2024,McKenzie Palmer
-"Huffman, Hunter",32,Adult,Yes,,1/5/2025,"Huffman, Hunter",1/5/2025,Hunter Huffman
-"Huffman, Keri Gail",34,Adult,Yes,,,"Huffman, Keri Gail",1/5/2025,Keri Huffman
-"Budd, Shamae",35,Adult,Yes,,1/12/2025,"Budd, Shamae",1/12/2025,Shamae Budd
-"McClellan, Daniel",35,Adult,Yes,,1/12/2025,"McClellan, Daniel",1/12/2025,Daniel McClellan
-"Grigg, Jennifer",61,Adult,Yes,,1/19/2025,"Grigg, Jennifer",1/19/2025,Jennifer Grigg
-"Grigg, Stuart",61,Adult,Yes,Said no on 9/27/25,1/19/2025,"Grigg, Stuart",1/19/2025,Stuart Grigg
-"Nielsen, Teresa",57,Adult,,,2/9/2025,"Nielsen, Teresa",2/9/2025,Teresa Nielsen
-"Nielsen, Teresa",57,Adult,,,1/7/2024,"Nielsen, Teresa",2/9/2025,Teresa Nielsen
-"Gough, Max",19,Adult,Yes,,3/2/2025,"Gough, Max",3/2/2025,Max Gough
-"Gough, Max",19,Adult,Yes,,1/28/2024,"Gough, Max",3/2/2025,Max Gough
-"Middlebrook, Jordan",37,Adult,Yes,,3/9/2025,"Middlebrook, Jordan",3/9/2025,Jordan Middlebrook
-"Farnsworth, Travis",39,Adult,Yes,,3/16/2025,"Farnsworth, Travis",3/16/2025,Travis Farnsworth
-"Forshay, Hillary Beth",44,Adult,Yes,,,"Forshay, Hillary Beth",3/16/2025,Hillary Forshay
-"Newby, Xander",12,Kid,Yes,,3/23/2025,"Newby, Xander",3/23/2025,Xander Newby
-"Acero, Jessica",46,Adult,Yes,,3/23/2025,"Acero, Jessica",3/23/2025,Jessica Acero
-"Forshay, Ronin MacFarlane",15,Kid,Yes,,,"Forshay, Ronin MacFarlane",3/30/2025,Ronin Forshay
-"Gay, Scott",67,Adult,Yes,,3/30/2025,"Gay, Scott",3/30/2025,Scott Gay
-"Martineau, Bill",82,Adult,Yes,,4/13/2025,"Martineau, Bill",4/13/2025,Bill Martineau
-"Gough, Lydia",15,Kid,Yes,,4/20/2025,"Gough, Lydia",4/20/2025,Lydia Gough
-"Parry, Grant",38,Adult,Yes,,4/20/2025,"Parry, Grant",4/20/2025,Grant Parry
-"Parry, Greyson",12,Kid,Yes,,4/27/2025,"Parry, Greyson",4/27/2025,Greyson Parry
-"Alvaro, Lemuel Jim Pizarro",59,Adult,Yes,,,"Alvaro, Lemuel Jim Pizarro",4/27/2025,Lemuel Alvaro
-"Parry, Kimberly",36,Adult,Yes,,5/4/2025,"Parry, Kimberly",5/4/2025,Kimberly Parry
-"Miller, Macy",18,Kid,Yes,,5/11/2025,"Miller, Macy",5/11/2025,Macy Miller
-"Miller, Lindsey",47,Adult,Yes,,5/11/2025,"Miller, Lindsey",5/11/2025,Lindsey Miller
-"Lifferth, BriAnne",33,Adult,Yes,,5/18/2025,"Lifferth, BriAnne",5/18/2025,BriAnne Lifferth
-"Young, Sharece",51,Adult,Yes,,5/18/2025,"Young, Sharece",5/18/2025,Sharece Young
-"Tanner, Tyson",17,Kid,Yes,,6/1/2025,"Tanner, Tyson",6/1/2025,Tyson Tanner
-"Strong, Richard",44,Adult,Yes,,6/1/2025,"Strong, Richard",6/1/2025,Richard Strong
-"Peugh, Chris",45,Adult,Yes,,6/15/2025,"Peugh, Chris",6/15/2025,Chris Peugh
-"Peugh, Chris",45,Adult,Yes,,9/29/2024,"Peugh, Chris",6/15/2025,Chris Peugh
-"Grosland, Robin",57,Adult,Yes,,6/15/2025,"Grosland, Robin",6/15/2025,Robin Grosland
-"Peugh, Elisabeth",17,Kid,Yes,,6/22/2025,"Peugh, Elisabeth",6/22/2025,Elisabeth Peugh
-"Peugh, Victoria",43,Adult,Yes,,6/22/2025,"Peugh, Victoria",6/22/2025,Victoria Peugh
-"Peugh, Victoria",43,Adult,Yes,,9/29/2024,"Peugh, Victoria",6/22/2025,Victoria Peugh
-"Tanner, Ryker",11,Kid,Yes,,6/29/2025,"Tanner, Ryker",6/29/2025,Ryker Tanner
-"Gay, Dona",61,Adult,Yes,,6/29/2025,"Gay, Dona",6/29/2025,Dona Gay
-"Garrett, Lucy Victoria",13,Kid,Yes,Said no Oct 2025,,"Garrett, Lucy Victoria",7/6/2025,Lucy Garrett
-"Brown, Brodie",28,Adult,Yes,,7/6/2025,"Brown, Brodie",7/6/2025,Brodie Brown
-"Newby, Payton",38,Adult,Yes,,7/6/2025,"Newby, Payton",7/6/2025,Payton Newby
-"Taylor, Eliza Grace",12,Kid,Yes,,,"Taylor, Eliza Grace",7/13/2025,Eliza Taylor
-"Carr, AnnaLisa",33,Adult,Yes,,7/20/2025,"Carr, AnnaLisa",7/20/2025,AnnaLisa Carr
-"Curtis, Tamra",59,Adult,Yes,,7/20/2025,"Curtis, Tamra",7/20/2025,Tamra Curtis
-"Carr, Andrew Newberry",34,Adult,Yes,,,"Carr, Andrew Newberry",7/27/2025,Andrew Carr
-"Hansen, Katie",51,Adult,Yes,,7/27/2025,"Hansen, Katie",7/27/2025,Katie Hansen
-"Hansen, Katie",51,Adult,Yes,,4/13/2025,"Hansen, Katie",7/27/2025,Katie Hansen
-"Brown, Kali",32,Adult,Yes,,8/3/2025,"Brown, Kali",8/3/2025,Kali Brown
-"Martineau, Ginny",76,Adult,Yes,,8/10/2025,"Martineau, Ginny",8/10/2025,Ginny Martineau
-"Paxton, Mark",64,Adult,Yes,,8/17/2025,"Paxton, Mark",8/17/2025,Mark Paxton
-"Degn, Debbie",70,Adult,Yes,,8/17/2025,"Degn, Debbie",8/17/2025,Debbie Degn
-"Miller, Layla",17,Kid,Yes,,8/24/2025,"Miller, Layla",8/24/2025,Layla Miller
-"Roth, Laurel",76,Adult,Yes,,8/24/2025,"Roth, Laurel",8/24/2025,Laurel Roth
-"Miller, Margaret",15,Kid,Yes,,8/31/2025,"Miller, Margaret",8/31/2025,Margaret Miller
-"Middlebrook, Bri",36,Adult,Yes,,8/31/2025,"Middlebrook, Bri",8/31/2025,Bri Middlebrook
-"Curtis, Shawn",24,Adult,Yes,,9/7/2025,"Curtis, Shawn",9/7/2025,Shawn Curtis
-"Curtis, Shawn",24,Adult,Yes,,9/7/2025,"Curtis, Shawn",9/7/2025,Shawn Curtis
-"Miller, Brian",42,Adult,Yes,,9/7/2025,"Miller, Brian",9/7/2025,Brian Miller
-"Pace, Alyssa",24,Adult,Yes,,9/14/2025,"Pace, Alyssa",9/14/2025,Alyssa Pace
-"Pace, Alyssa",24,Adult,Yes,,9/14/2025,"Pace, Alyssa",9/14/2025,Alyssa Pace
-"Harrison, Ginger",50,Adult,Yes,,9/14/2025,"Harrison, Ginger",9/14/2025,Ginger Harrison
-"Brown, Dallin",36,Adult,Yes,,9/21/2025,"Brown, Dallin",9/21/2025,Dallin Brown
-"Miller, Cole",14,Kid,Yes,,9/28/2025,"Miller, Cole",9/28/2025,Cole Miller
-"Farnsworth, Ginny",43,Adult,Yes,,9/28/2025,"Farnsworth, Ginny",9/28/2025,Ginny Farnsworth
-"Parker, Ellie",35,Adult,Yes,,10/12/2025,"Parker, Ellie",10/12/2025,Ellie Parker
-"Clark, Marsha",52,Adult,Yes,,10/12/2025,"Clark, Marsha",10/12/2025,Marsha Clark
-"Cutler, Manhattyn Mahala",14,Kid,Yes,,,"Cutler, Manhattyn Mahala",10/19/2025,Manhattyn Cutler
-"Hylton, Caleb Lee",14,Kid,,,,"Hylton, Caleb Lee",10/26/2025,Caleb Hylton
-"Strong, Walker",17,Kid,Yes,,10/26/2025,"Strong, Walker",10/26/2025,Walker Strong
-"Hansen, Samuel",19,Adult,Yes,,11/2/2025,"Hansen, Samuel",11/2/2025,Samuel Hansen
-"Hansen, Samuel",19,Adult,Yes,,2/9/2025,"Hansen, Samuel",11/2/2025,Samuel Hansen
-"Hansen, Samuel",19,Adult,Yes,,1/14/2024,"Hansen, Samuel",11/2/2025,Samuel Hansen
-"Taylor, Mary",75,Adult,Yes,,11/2/2025,"Taylor, Mary",11/2/2025,Mary Taylor
-"Garlock, Lindsay Ann",38,Adult,Yes,,,"Garlock, Lindsay Ann",11/9/2025,Lindsay Garlock
-"Sargent, Martha",80,Adult,Yes,Said no on 9/7/2025. Try again when older,11/9/2025,"Sargent, Martha",11/9/2025,Martha Sargent
-"Sargent, Martha",80,Adult,Yes,Said no on 9/7/2025. Try again when older,1/14/2024,"Sargent, Martha",11/9/2025,Martha Sargent
-"Hansen, Michael",53,Adult,Yes,,11/16/2025,"Hansen, Michael",11/16/2025,Michael Hansen
-"Roylance, Karl",67,Adult,Yes,,11/16/2025,"Roylance, Karl",11/16/2025,Karl Roylance
-"Roylance, Karl",67,Adult,Yes,,12/22/2024,"Roylance, Karl",11/16/2025,Karl Roylance
-"Roylance, Karl",67,Adult,Yes,,12/24/2023,"Roylance, Karl",11/16/2025,Karl Roylance
-"Gough, Acadia",13,Kid,Yes,,11/23/2025,"Gough, Acadia",11/23/2025,Acadia Gough
-"Gough, Acadia",13,Kid,Yes,,1/7/2024,"Gough, Acadia",11/23/2025,Acadia Gough
-"Newby, Judith",37,Adult,Yes,,11/23/2025,"Newby, Judith",11/23/2025,Judith Newby
-"Newby, Judith",37,Adult,Yes,,2/4/2024,"Newby, Judith",11/23/2025,Judith Newby
-"Parker, Stewart",62,Adult,Yes,,11/30/2025,"Parker, Stewart",11/30/2025,Stewart Parker
-"Parker, Stewart",62,Adult,Yes,,2/18/2024,"Parker, Stewart",11/30/2025,Stewart Parker
-"Hansen, Gilbert Ray",69,Adult,Yes,,,"Hansen, Gilbert Ray",11/30/2025,Gilbert Hansen
-"Gough, Cynthia",43,Adult,Yes,,12/7/2025,"Gough, Cynthia",12/7/2025,Cynthia Gough
-"Gough, Cynthia",43,Adult,Yes,,3/17/2024,"Gough, Cynthia",12/7/2025,Cynthia Gough
-"Parker, Debbie",62,Adult,Yes,,12/7/2025,"Parker, Debbie",12/7/2025,Debbie Parker
-"Parker, Debbie",62,Adult,Yes,,2/18/2024,"Parker, Debbie",12/7/2025,Debbie Parker
-"Lifferth, Ryan",38,Adult,Yes,,12/14/2025,"Lifferth, Ryan",12/14/2025,Ryan Lifferth
-"Lifferth, Ryan",38,Adult,Yes,,3/10/2024,"Lifferth, Ryan",12/14/2025,Ryan Lifferth
-"Gough, Travis",43,Adult,Yes,,12/14/2025,"Gough, Travis",12/14/2025,Travis Gough
-"Gough, Travis",43,Adult,Yes,,3/17/2024,"Gough, Travis",12/14/2025,Travis Gough
-"Hoffman, Carly Nicole",33,Adult,Yes,,,"Hoffman, Carly Nicole",12/21/2025,Carly Hoffman
-"Hansen, Karen Jean",71,Adult,Yes,,,"Hansen, Karen Jean",12/21/2025,Karen Hansen
-"Forshay, Tim",49,Adult,Yes,,12/28/2025,"Forshay, Tim",12/28/2025,Tim Forshay
-"Forshay, Tim",49,Adult,Yes,,3/24/2024,"Forshay, Tim",12/28/2025,Tim Forshay
-"Young, Kathy",76,Adult,Yes,,12/28/2025,"Young, Kathy",12/28/2025,Kathy Young
-"Young, Kathy",76,Adult,Yes,,4/21/2024,"Young, Kathy",12/28/2025,Kathy Young
-"Tanner, Heather",43,Adult,Yes,,1/4/2026,"Tanner, Heather",1/4/2026,Heather Tanner
-"Tanner, Heather",43,Adult,Yes,,4/14/2024,"Tanner, Heather",1/4/2026,Heather Tanner
-"Young, Karl",76,Adult,Yes,,1/4/2026,"Young, Karl",1/4/2026,Karl Young
-"Young, Karl",76,Adult,Yes,,4/21/2024,"Young, Karl",1/4/2026,Karl Young
-"Zavala Castro, Agustin",49,Adult,Yes,,,"Zavala Castro, Agustin",1/11/2026,Castro Zavala
-"Hoffman, Daniel",37,Adult,Yes,,1/18/2026,"Hoffman, Daniel",1/18/2026,Daniel Hoffman
-"Hoffman, Daniel",37,Adult,Yes,,4/28/2024,"Hoffman, Daniel",1/18/2026,Daniel Hoffman
-"Alvaro, Rizalyn Montenegro Romo",60,Adult,Yes,,,"Alvaro, Rizalyn Montenegro Romo",1/18/2026,Rizalyn Alvaro
-"Cutler, Holly",54,Adult,Yes,,2/1/2026,"Cutler, Holly",2/1/2026,Holly Cutler
-"Cutler, Holly",54,Adult,Yes,,6/9/2024,"Cutler, Holly",2/1/2026,Holly Cutler
-"Gurney, Scot",62,Adult,Yes,,2/1/2026,"Gurney, Scot",2/1/2026,Scot Gurney
-"Gurney, Scot",62,Adult,Yes,,6/16/2024,"Gurney, Scot",2/1/2026,Scot Gurney
-"Tanner, Dustin",49,Adult,Yes,,2/8/2026,"Tanner, Dustin",2/8/2026,Dustin Tanner
-"Tanner, Dustin",49,Adult,Yes,,4/14/2024,"Tanner, Dustin",2/8/2026,Dustin Tanner
-"Gurney, Lara",57,Adult,Yes,,2/8/2026,"Gurney, Lara",2/8/2026,Lara Gurney
-"Gurney, Lara",57,Adult,Yes,,6/16/2024,"Gurney, Lara",2/8/2026,Lara Gurney
-"Price, Brady",29,Adult,Yes,,2/15/2026,"Price, Brady",2/15/2026,Brady Price
-"Price, Brady",29,Adult,Yes,,9/1/2024,"Price, Brady",2/15/2026,Brady Price
-"McDonnell, Zach",36,Adult,Yes,,2/15/2026,"McDonnell, Zach",2/15/2026,Zach McDonnell
-"McDonnell, Zach",36,Adult,Yes,,8/25/2024,"McDonnell, Zach",2/15/2026,Zach McDonnell
-"Garrett, Victoria Mae",43,Adult,Yes,,,"Garrett, Victoria Mae",2/22/2026,Victoria Garrett
-"Miller, Brennon",50,Adult,Yes,,2/22/2026,"Miller, Brennon",2/22/2026,Brennon Miller
-"Cutler, Crosby Boulton",16,Kid,Yes,,,"Cutler, Crosby Boulton",3/1/2026,Crosby Cutler
-"Cutler, Devin Jens",20,Adult,Yes,,,"Cutler, Devin Jens",3/1/2026,Devin Cutler
-"Cutler, Devin",54,Adult,Yes,,3/1/2026,"Cutler, Devin",3/1/2026,Devin Cutler
-"Cutler, Devin",54,Adult,Yes,,6/9/2024,"Cutler, Devin",3/1/2026,Devin Cutler
-"Grosland, Jessica",36,Adult,Yes,,3/8/2026,"Grosland, Jessica",3/8/2026,Jessica Grosland
-"Grosland, Jessica",36,Adult,Yes,,6/23/2024,"Grosland, Jessica",3/8/2026,Jessica Grosland
-"Taylor, Thomasina Ilene Morris",38,Adult,Yes,,,"Taylor, Thomasina Ilene Morris",3/8/2026,Thomasina Taylor
-"Rosenlof, Ross",30,Adult,Yes,,3/15/2026,"Rosenlof, Ross",3/15/2026,Ross Rosenlof
-"Rosenlof, Ross",30,Adult,Yes,,8/18/2024,"Rosenlof, Ross",3/15/2026,Ross Rosenlof
-"Isbell, Donna",74,Adult,Yes,,3/15/2026,"Isbell, Donna",3/15/2026,Donna Isbell
-"Isbell, Donna",74,Adult,Yes,,7/28/2024,"Isbell, Donna",3/15/2026,Donna Isbell
-"Smith, Cassidy Savannah",30,Adult,Yes,,,"Smith, Cassidy Savannah",3/22/2026,Cassidy Smith
-"Simonsen, Nancy",61,Adult,Yes,,8/4/2024,"Simonsen, Nancy",3/22/2026,Nancy Simonsen
-"Rosenlof, Sarah",30,Adult,Yes,,8/18/2024,"Rosenlof, Sarah",3/29/2026,Sarah Rosenlof
-"McDonnell, Mariah Grace",33,Adult,Yes,,,"McDonnell, Mariah Grace",3/29/2026,Mariah McDonnell
-"Hartman, Colby",29,Adult,Yes,,2/23/2025,"Hartman, Colby",4/12/2026,Colby Hartman
-"Hartman, Colby",29,Adult,Yes,,2/11/2024,"Hartman, Colby",4/12/2026,Colby Hartman
-"Hartman, Megan Sue",29,Adult,Yes,,,"Hartman, Megan Sue",4/12/2026,Megan Hartman
-"Hanks, Jennifer Nicole",36,Adult,Yes,,,"Hanks, Jennifer Nicole",4/19/2026,Jennifer Hanks
-"Rowley, Jason",26,Adult,Yes,Said no August 2025. Give him another year and try again,10/20/2024,"Rowley, Jason",4/19/2026,Jason Rowley
-"Capozzoli, Kimberly",61,Adult,Yes,,12/1/2024,"Capozzoli, Kimberly",4/26/2026,Kimberly Capozzoli
-"Rawle, Sarah",33,Adult,Yes,,9/8/2024,"Rawle, Sarah",4/26/2026,Sarah Rawle
-"Smith, Hayden",29,Adult,Yes,,7/7/2024,"Smith, Hayden",5/3/2026,Hayden Smith
-"McConkie, Sarah Lynn",30,Adult,Yes,,,"McConkie, Sarah Lynn",5/3/2026,Sarah McConkie
-"Rowley, Amelia Kate",27,Adult,Yes,,,"Rowley, Amelia Kate",5/10/2026,Amelia Rowley
-"Haws, Halle",25,Adult,Yes,,11/3/2024,"Haws, Halle",5/10/2026,Halle Haws
-"Hanks, Nathan",37,Adult,Yes,,9/22/2024,"Hanks, Nathan",5/17/2026,Nathan Hanks
-"Haws, Keller",25,Adult,Yes,,11/3/2024,"Haws, Keller",5/24/2026,Keller Haws
-"Myers, Tom",66,Adult,Yes,,11/17/2024,"Myers, Tom",5/24/2026,Tom Myers
-"Hylton, Owen",12,Kid,,,,"Hylton, Owen",,Owen Hylton
-"Strong, Sidney",12,Kid,Yes,,,"Strong, Sidney",,Sidney Strong
-"Anderson, Harrison",13,Kid,,,,"Anderson, Harrison",,Harrison Anderson
-"Dewey, Jack",13,Kid,,,,"Dewey, Jack",,Jack Dewey
-"Peugh, Christopher",13,Kid,No,,,"Peugh, Christopher",,Christopher Peugh
-"Acero, Melissa",13,Kid,Yes,,,"Acero, Melissa",,Melissa Acero
-"Strong, Taylor",13,Kid,Yes,Said no July 2025,,"Strong, Taylor",,Taylor Strong
-"Logsdon, Avery",14,Kid,,,,"Logsdon, Avery",,Avery Logsdon
-"Saybolt, Attikus",14,Kid,,,,"Saybolt, Attikus",,Attikus Saybolt
-"Tanner, Maximus",14,Kid,Yes,,,"Tanner, Maximus",,Maximus Tanner
-"Anderson, Loraine",15,Kid,,,,"Anderson, Loraine",,Loraine Anderson
-"Peugh, Samantha",15,Kid,No,,,"Peugh, Samantha",,Samantha Peugh
-"Hylton, Elliott Blain",15,Kid,Yes,,,"Hylton, Elliott Blain",,Elliott Hylton
-"Curtis, Hunter",16,Kid,,,,"Curtis, Hunter",,Hunter Curtis
-"Hansen, Peter",16,Kid,No,,,"Hansen, Peter",,Peter Hansen
-"Saybolt, Maggie",16,Kid,,,,"Saybolt, Maggie",,Maggie Saybolt
-"Simonsen, Brynley",16,Kid,,,,"Simonsen, Brynley",,Brynley Simonsen
-"Baker, Cooper",17,Kid,,,,"Baker, Cooper",,Cooper Baker
-"Levengood, Devon",17,Kid,,,,"Levengood, Devon",,Devon Levengood
-"Bataluna, Danielle Lyn Ahelani",18,Kid,,,,"Bataluna, Danielle Lyn Ahelani",,Danielle Bataluna
-"Logsdon, Lyla Star",18,Kid,,,,"Logsdon, Lyla Star",,Lyla Logsdon
-"Saybolt, Molly",18,Kid,,,,"Saybolt, Molly",,Molly Saybolt
-"Torsak, Lydia",18,Kid,,,,"Torsak, Lydia",,Lydia Torsak
-"Uresk, Isabella",18,Kid,,,,"Uresk, Isabella",,Isabella Uresk
-"Baker, Claire",19,Adult,,,,"Baker, Claire",,Claire Baker
-"Curtis, Zoie",19,Adult,,,,"Curtis, Zoie",,Zoie Curtis
-"Levengood, Cole",19,Adult,,,,"Levengood, Cole",,Cole Levengood
-"Lytle, Gavin",19,Adult,,,,"Lytle, Gavin",,Gavin Lytle
-"Zavala, Braxton",19,Adult,Yes,,,"Zavala, Braxton",,Braxton Zavala
-"Allred, Joe Easton",20,Adult,,,,"Allred, Joe Easton",,Joe Allred
-"Saybolt, Ashtyn",20,Adult,,,,"Saybolt, Ashtyn",,Ashtyn Saybolt
-"Simonsen, Zane",20,Adult,,,,"Simonsen, Zane",,Zane Simonsen
-"Uresk, Carter",20,Adult,,,,"Uresk, Carter",,Carter Uresk
-"Bataluna, Kari Lyn Kaleokalani",21,Adult,,,,"Bataluna, Kari Lyn Kaleokalani",,Kari Bataluna
-"Uresk, Gracie",21,Adult,,,,"Uresk, Gracie",,Gracie Uresk
-"Gay, Corban",21,Adult,Yes,,,"Gay, Corban",,Corban Gay
-"Acero, Alex",22,Adult,,,,"Acero, Alex",,Alex Acero
-"Hansen, Mary",22,Adult,,,,"Hansen, Mary",,Mary Hansen
-"Levengood, Quinn",22,Adult,,,,"Levengood, Quinn",,Quinn Levengood
-"Lytle, Ashton",22,Adult,,,,"Lytle, Ashton",,Ashton Lytle
-"Maye, Maliyah",22,Adult,,,,"Maye, Maliyah",,Maliyah Maye
-"Torsak, Shyla",22,Adult,,,,"Torsak, Shyla",,Shyla Torsak
-"Harrison, Brennan",23,Adult,,,,"Harrison, Brennan",,Brennan Harrison
-"Roper, Morgan",23,Adult,,,,"Roper, Morgan",,Morgan Roper
-"Clark, Joshua",24,Adult,,,,"Clark, Joshua",,Joshua Clark
-"Irvine, Madalyn",24,Adult,,,,"Irvine, Madalyn",,Madalyn Irvine
-"Levengood, Rishy",24,Adult,,,,"Levengood, Rishy",,Rishy Levengood
-"Parker, Bailee",24,Adult,,,,"Parker, Bailee",,Bailee Parker
-"Torsak, Preston",24,Adult,,,,"Torsak, Preston",,Preston Torsak
-"Hansen, Joseph",25,Adult,,,,"Hansen, Joseph",,Joseph Hansen
-"Johnson, Katey",25,Adult,,,,"Johnson, Katey",,Katey Johnson
-"Johnson, Sam",25,Adult,,,,"Johnson, Sam",,Sam Johnson
-"Padilla, Selena",25,Adult,,,,"Padilla, Selena",,Selena Padilla
-"Harrison, Joseph",25,Adult,?,,,"Harrison, Joseph",,Joseph Harrison
-"Matheson, Donavan",26,Adult,,,,"Matheson, Donavan",,Donavan Matheson
-"Millet, Natalya",26,Adult,Yes,,,"Millet, Natalya",,Natalya Millet
-"Wood, Marissa",26,Adult,Yes,,,"Wood, Marissa",,Marissa Wood
-"Roper, Autumn",27,Adult,,,,"Roper, Autumn",,Autumn Roper
-"Shepherd, Layton",27,Adult,,,,"Shepherd, Layton",,Layton Shepherd
-"Anderson, Matthew",27,Adult,Yes,,,"Anderson, Matthew",,Matthew Anderson
-"Anderson, Matthew",27,Adult,Yes,,,"Anderson, Matthew",,Matthew Anderson
-"Birch, Sydnee Gweneth",28,Adult,,,,"Birch, Sydnee Gweneth",,Sydnee Birch
-"Cleenput, Jennifer Marie",28,Adult,,,,"Cleenput, Jennifer Marie",,Jennifer Cleenput
-"Gurney, Anna",28,Adult,,,,"Gurney, Anna",,Anna Gurney
-"Hawker, Gabrielle May",28,Adult,,,,"Hawker, Gabrielle May",,Gabrielle Hawker
-"Laehn, Dean Christoph",28,Adult,,,,"Laehn, Dean Christoph",,Dean Laehn
-"Mortezazadeh, Sidney",28,Adult,,,,"Mortezazadeh, Sidney",,Sidney Mortezazadeh
-"Grigg, Noah",29,Adult,,,,"Grigg, Noah",,Noah Grigg
-"Jones, Jacob",29,Adult,,,,"Jones, Jacob",,Jacob Jones
-"Maye, Marcus",29,Adult,,,,"Maye, Marcus",,Marcus Maye
-"Okelberry, Lexi",29,Adult,?,,,"Okelberry, Lexi",,Lexi Okelberry
-"Davila Olivares, Jeniffer Priscila",29,Adult,Yes,,,"Davila Olivares, Jeniffer Priscila",,Olivares Davila
-"Jones, Clarissa",30,Adult,,,,"Jones, Clarissa",,Clarissa Jones
-"Torsak, Sara Nicole",30,Adult,,,,"Torsak, Sara Nicole",,Sara Torsak
-"Worley, Myriah",30,Adult,,,,"Worley, Myriah",,Myriah Worley
-"DeWaal, Kaitlyn",31,Adult,,,,"DeWaal, Kaitlyn",,Kaitlyn DeWaal
-"Dimick, Karissa LaRue",31,Adult,,,,"Dimick, Karissa LaRue",,Karissa Dimick
-"Grosland, Cari",31,Adult,,,,"Grosland, Cari",,Cari Grosland
-"Miller, Jacob William",31,Adult,,,,"Miller, Jacob William",,Jacob Miller
-"Mortezazadeh, Alexander",31,Adult,,,,"Mortezazadeh, Alexander",,Alexander Mortezazadeh
-"Wood, Brycen",31,Adult,,,,"Wood, Brycen",,Brycen Wood
-"Bready, Halee Bryner",32,Adult,Maybe,,,"Bready, Halee Bryner",,Halee Bready
-"Helmer, Montgomery",32,Adult,,,,"Helmer, Montgomery",,Montgomery Helmer
-"Maye, Mitchell",32,Adult,,,,"Maye, Mitchell",,Mitchell Maye
-"Oldroyd, Kimberly Lou",32,Adult,,,,"Oldroyd, Kimberly Lou",,Kimberly Oldroyd
-"Helmer, Montgomery",32,Adult,?,,,"Helmer, Montgomery",,Montgomery Helmer
-"Maughan, Emily",33,Adult,,,,"Maughan, Emily",,Emily Maughan
-"Mauss, Anthony John",33,Adult,,,,"Mauss, Anthony John",,Anthony Mauss
-"Lundell, Phillip",34,Adult,,,,"Lundell, Phillip",,Phillip Lundell
-"Bready, Connor",35,Adult,Maybe,,,"Bready, Connor",,Connor Bready
-"Daybell, Drew",35,Adult,,,,"Daybell, Drew",,Drew Daybell
-"Henderson, Taylor",35,Adult,,,,"Henderson, Taylor",,Taylor Henderson
-"Mauss, Lindsay Christine",35,Adult,,,,"Mauss, Lindsay Christine",,Lindsay Mauss
-"Maughan, Spencer",37,Adult,,,,"Maughan, Spencer",,Spencer Maughan
-"Rodriguez, Jessica",37,Adult,,,,"Rodriguez, Jessica",,Jessica Rodriguez
-"Hancock, Jerrica",38,Adult,,,,"Hancock, Jerrica",,Jerrica Hancock
-"Logsdon, Jessie",38,Adult,,,,"Logsdon, Jessie",,Jessie Logsdon
-"Rodriguez, Mikhail",38,Adult,,,,"Rodriguez, Mikhail",,Mikhail Rodriguez
-"Hansen, Beth",38,Adult,Yes,,,"Hansen, Beth",,Beth Hansen
-"Logsdon, Jay",39,Adult,,,,"Logsdon, Jay",,Jay Logsdon
-"Marble, Megann",39,Adult,,,,"Marble, Megann",,Megann Marble
-"McDonald, Danielle",39,Adult,,,,"McDonald, Danielle",,Danielle McDonald
-"Penrod, Lindsey Ann",39,Adult,,,,"Penrod, Lindsey Ann",,Lindsey Penrod
-"Simonsen, Jessie",39,Adult,Maybe,,,"Simonsen, Jessie",,Jessie Simonsen
-"Sargeant, Chris",39,Adult,Yes,,,"Sargeant, Chris",,Chris Sargeant
-"Blackwell, Holly",39,Adult,Yes,,,"Blackwell, Holly",,Holly Blackwell
-"Allred, Aubrey",40,Adult,,,,"Allred, Aubrey",,Aubrey Allred
-"Anderson, Brad",40,Adult,,,,"Anderson, Brad",,Brad Anderson
-"Simonsen, Geoff",40,Adult,,,,"Simonsen, Geoff",,Geoff Simonsen
-"Miller, Barbara",40,Adult,Yes,,,"Miller, Barbara",,Barbara Miller
-"Sargeant, Arlyn",40,Adult,Yes,,,"Sargeant, Arlyn",,Arlyn Sargeant
-"Baker, Morgan",41,Adult,,,,"Baker, Morgan",,Morgan Baker
-"Curtis, Ashley",41,Adult,,,,"Curtis, Ashley",,Ashley Curtis
-"Hylton, Elizabeth",41,Adult,,,,"Hylton, Elizabeth",,Elizabeth Hylton
-"Marble, Skylar",41,Adult,,,,"Marble, Skylar",,Skylar Marble
-"Ensign, Mariana Villa",41,Adult,Yes,,,"Ensign, Mariana Villa",,Mariana Ensign
-"Strong, Steven",42,Adult,,,,"Strong, Steven",,Steven Strong
-"Baker, Jerrid",44,Adult,,,,"Baker, Jerrid",,Jerrid Baker
-"Hales, Michael",44,Adult,,,,"Hales, Michael",,Michael Hales
-"Hancock, Jeff",44,Adult,,,,"Hancock, Jeff",,Jeff Hancock
-"Saybolt, Kallie",44,Adult,,,,"Saybolt, Kallie",,Kallie Saybolt
-"Uresk, Dustin",44,Adult,,,,"Uresk, Dustin",,Dustin Uresk
-"Wilkinson, Tiffany",44,Adult,,,,"Wilkinson, Tiffany",,Tiffany Wilkinson
-"Anderson, Becky",44,Adult,Yes,,,"Anderson, Becky",,Becky Anderson
-"Strong, Mallori",44,Adult,Yes,,,"Strong, Mallori",,Mallori Strong
-"Starks, Julie",45,Adult,,,,"Starks, Julie",,Julie Starks
-"Garrett, Dustin",45,Adult,Yes,,,"Garrett, Dustin",,Dustin Garrett
-"Curtis, Justin",46,Adult,,,,"Curtis, Justin",,Justin Curtis
-"Levengood, Laura",46,Adult,Maybe,,,"Levengood, Laura",,Laura Levengood
-"Uresk, Karlee",46,Adult,,,,"Uresk, Karlee",,Karlee Uresk
-"Butler, Jordan Tyler",47,Adult,,,,"Butler, Jordan Tyler",,Jordan Butler
-"Hales, John",47,Adult,,,,"Hales, John",,John Hales
-"Hylton, Stephen",47,Adult,,,,"Hylton, Stephen",,Stephen Hylton
-"Levengood, Richard",47,Adult,,,,"Levengood, Richard",,Richard Levengood
-"Sanchez Hernandez, Emmanuel",47,Adult,,,,"Sanchez Hernandez, Emmanuel",,Hernandez Sanchez
-"Young, Marcy",47,Adult,,,,"Young, Marcy",,Marcy Young
-"Hales, Steven",48,Adult,,,,"Hales, Steven",,Steven Hales
-"Smith, Danny",48,Adult,,,,"Smith, Danny",,Danny Smith
-"Zavala, Jamie",49,Adult,No,,,"Zavala, Jamie",,Jamie Zavala
-"Gile, Heather",50,Adult,,,,"Gile, Heather",,Heather Gile
-"Darnell, Heidi Lyn",52,Adult,,,,"Darnell, Heidi Lyn",,Heidi Darnell
-"Russell, Layna",52,Adult,,,,"Russell, Layna",,Layna Russell
-"Scott, Ryan M",52,Adult,,,,"Scott, Ryan M",,Ryan Scott
-"Thomas, Lily",52,Adult,,,,"Thomas, Lily",,Lily Thomas
-"Cloward, Jennifer",53,Adult,,,,"Cloward, Jennifer",,Jennifer Cloward
-"Kennan, Jennifer",53,Adult,Yes,,,"Kennan, Jennifer",,Jennifer Kennan
-"Kennan, Jennifer",53,Adult,Yes,,,"Kennan, Jennifer",,Jennifer Kennan
-"Cloward, Steven",54,Adult,,,,"Cloward, Steven",,Steven Cloward
-"Wall, Roylynn",54,Adult,,,,"Wall, Roylynn",,Roylynn Wall
-"Christopherson, Troy",55,Adult,,,,"Christopherson, Troy",,Troy Christopherson
-"Allen, Toni",55,Adult,Yes,,,"Allen, Toni",,Toni Allen
-"Jacobson, Mary",55,Adult,Yes,,,"Jacobson, Mary",,Mary Jacobson
-"Frechem, Hollie",56,Adult,,,,"Frechem, Hollie",,Hollie Frechem
-"Weight, Dan",56,Adult,Yes,,,"Weight, Dan",,Dan Weight
-"Boothe, Mat",57,Adult,,,,"Boothe, Mat",,Mat Boothe
-"Daybell, Steve",58,Adult,Maybe,,,"Daybell, Steve",,Steve Daybell
-"Matheson, Russell",58,Adult,No,,,"Matheson, Russell",,Russell Matheson
-"McGregor, Wendy",58,Adult,,,,"McGregor, Wendy",,Wendy McGregor
-"Jacobson, Prince",58,Adult,Yes,,,"Jacobson, Prince",,Prince Jacobson
-"Balcer, Mark",59,Adult,,,,"Balcer, Mark",,Mark Balcer
-"Mauss, Cheri Lee",59,Adult,,,,"Mauss, Cheri Lee",,Cheri Mauss
-"Mauss, John",59,Adult,,,,"Mauss, John",,John Mauss
-"Watkins, Tracey Lee",59,Adult,,,,"Watkins, Tracey Lee",,Tracey Watkins
-"Willden, Charlotte Alberta",59,Adult,No,,,"Willden, Charlotte Alberta",,Charlotte Willden
-"Francis, Karla",60,Adult,,,,"Francis, Karla",,Karla Francis
-"Rhodes, Shannon Dawn",60,Adult,,,,"Rhodes, Shannon Dawn",,Shannon Rhodes
-"Howarth, Scott",62,Adult,,,,"Howarth, Scott",,Scott Howarth
-"Robinson, Sherry",64,Adult,Yes,,,"Robinson, Sherry",,Sherry Robinson
-"Bailey, Teri Lynn",65,Adult,,,,"Bailey, Teri Lynn",,Teri Bailey
-"Cobbley, Joe",65,Adult,,,,"Cobbley, Joe",,Joe Cobbley
-"Curtis, Skip",65,Adult,,,,"Curtis, Skip",,Skip Curtis
-"Hoppe, Linda",65,Adult,,,,"Hoppe, Linda",,Linda Hoppe
-"Bona, David",66,Adult,,,,"Bona, David",,David Bona
-"Bona, Jerilynn",66,Adult,,,,"Bona, Jerilynn",,Jerilynn Bona
-"Curtis, Leslie",66,Adult,No,,,"Curtis, Leslie",,Leslie Curtis
-"Petersen, Lance",66,Adult,,,,"Petersen, Lance",,Lance Petersen
-"Frandsen, Bill",67,Adult,,,,"Frandsen, Bill",,Bill Frandsen
-"Stokes, Jari",67,Adult,?,,,"Stokes, Jari",,Jari Stokes
-"Brown, Robert",68,Adult,,,,"Brown, Robert",,Robert Brown
-"Cobbley, Sheila",69,Adult,,,,"Cobbley, Sheila",,Sheila Cobbley
-"Floyd, Robert Charles",71,Adult,,,,"Floyd, Robert Charles",,Robert Floyd
-"Hansen, Ricky",72,Adult,,,,"Hansen, Ricky",,Ricky Hansen
-"Nelson, Gary",72,Adult,,,,"Nelson, Gary",,Gary Nelson
-"Norton, Marsha",72,Adult,No,,,"Norton, Marsha",,Marsha Norton
-"Hales, Ilene",73,Adult,,,,"Hales, Ilene",,Ilene Hales
-"Hales, James",74,Adult,,,,"Hales, James",,James Hales
-"Johnson, Brent",74,Adult,,,,"Johnson, Brent",,Brent Johnson
-"Sipes, Roberta",74,Adult,Yes,,,"Sipes, Roberta",,Roberta Sipes
-"Schroeder, Rebecca",76,Adult,Yes,,,"Schroeder, Rebecca",,Rebecca Schroeder
-"Carlson, Jane",77,Adult,,,,"Carlson, Jane",,Jane Carlson
-"Jensen, Ray",77,Adult,,,,"Jensen, Ray",,Ray Jensen
-"Roth, Bob",77,Adult,No,,,"Roth, Bob",,Bob Roth
-"Degn, Butch",78,Adult,Maybe,,,"Degn, Butch",,Butch Degn
-"Jensen, Pat",78,Adult,,,,"Jensen, Pat",,Pat Jensen
-"Marchant, Claudia",78,Adult,,,,"Marchant, Claudia",,Claudia Marchant
-"Russell, Reva Beth",78,Adult,,,,"Russell, Reva Beth",,Reva Russell
-"Carlson, Rex",80,Adult,,,,"Carlson, Rex",,Rex Carlson
-"Bott, Josie",80,Adult,Yes,,,"Bott, Josie",,Josie Bott
-"Larkin, Shirley",81,Adult,,,,"Larkin, Shirley",,Shirley Larkin
-"Brown, Deanna",81,Adult,Yes,,,"Brown, Deanna",,Deanna Brown
-"Russell, Keith",83,Adult,,,,"Russell, Keith",,Keith Russell
-"Graham, Alice",88,Adult,,,,"Graham, Alice",,Alice Graham
-"Hoppe, Joy",88,Adult,,,,"Hoppe, Joy",,Joy Hoppe
-"Shipley, Arval",89,Adult,?,,,"Shipley, Arval",,Arval Shipley
-"Horton, Floss",90,Adult,,,,"Horton, Floss",,Floss Horton
-"Barney, Lois Anne",91,Adult,,,,"Barney, Lois Anne",,Lois Barney
-"Horton, Don",91,Adult,,,,"Horton, Don",,Don Horton
-"Steele, Mona",96,Adult,,,,"Steele, Mona",,Mona Steele
-"Boman, Paul",100,Adult,,,,"Boman, Paul",,Paul Boman
-"Alban Angulo, Dieter Luis",12,Kid,Yes,,,,,Angulo Alban
-"Alban Angulo, Sariana Kate",14,Kid,Yes,,,,,Angulo Alban
-"Rivera, Armani",14,Kid,,,,,,Armani Rivera
-"Torsak, Kaden Joshua",16,Kid,,,,,,Kaden Torsak
-"Alban Angulo, David Enrique",16,Kid,Yes,,,,,Angulo Alban
-"Rivera, Malachi",21,Adult,,,,,,Malachi Rivera
-"Holmstead, Lot",23,Adult,Yes,,,,,Lot Holmstead
-"Holmstead, Alyssa",23,Adult,Yes,,,,,Alyssa Holmstead
-"Kennan, Kat",25,Adult,Yes,,,,,Kat Kennan
-"Kaze, Tariq A",25,Adult,,,,,,Tariq Kaze
-"Wininger, Logan",26,Adult,,,,,,Logan Wininger
-"Finlinson, Melanie Rose",28,Adult,Yes,,,,,Melanie Finlinson
-"Ettinger, Courtney",28,Adult,,,,,,Courtney Ettinger
-"Brown, Megan Rachael",29,Adult,Yes,,,,,Megan Brown
-"Sargent, Isaac",29,Adult,,,,,,Isaac Sargent
-"Larsen, Cody",29,Adult,,,,,,Cody Larsen
-"Smoot, Erin",29,Adult,Yes,,,,,Erin Smoot
-"Finlinson, Andrew",30,Adult,Yes,,,,,Andrew Finlinson
-"Cottle, Elizabeth",31,Adult,,,,,,Elizabeth Cottle
-"Smoot, Skylar",33,Adult,Yes,,,,,Skylar Smoot
-"Brierley, Justin",34,Adult,,,,,,Justin Brierley
-"Nielsen, Eric",36,Adult,,,,,,Eric Nielsen
-"Angulo Cobarrubias, David",40,Adult,,,,,,Cobarrubias Angulo
-"Alban Angulo, Saria",47,Adult,Yes,,,,,Angulo Alban
-"Alban Valda, Luis Enrique",48,Adult,Yes,,,,,Valda Alban
-"Chase, Hope",50,Adult,,,,,,Hope Chase
-"Golding, Kevin",65,Adult,,,,,,Kevin Golding
-"Bass, Clay",77,Adult,,,,,,Clay Bass
-"Zufelt, Billy",80,Adult,,,,,,Billy Zufelt
-"Payne, Howell Sherman",89,Adult,Yes,,,,,Howell Payne
+name,name_updated,age,age_bucket,willing_to_pray,notes,last_prayed,Current Missionary,callings
+"Robinson, Dale Allen",Dale Robinson,66,Adult,Yes,,2/25/2024,,Block Captain
+"Tanner, Carter Dustin",Carter Tanner,19,Adult,Yes,,2/25/2024,Yes,Ward Missionary
+"Gough, Elora",Elora Gough,21,Adult,Yes,,5/5/2024,,
+"Hylton, Cary L",Cary Hylton,73,Adult,Yes,,5/12/2024,,Block CaptainWard Temple and Family History ConsultantService Missionary AdviserTemple Worker
+"Hylton, Paula Patricia",Paula Hylton,73,Adult,Yes,,5/12/2024,,Service Missionary AdviserWard Temple and Family History Consultant
+"Taylor, Aaron Carl",Aaron Taylor,42,Adult,Yes,,5/26/2024,,Ward Missionary
+"Reding, Maryann",Maryann Reding,67,Adult,Yes,,6/23/2024,,
+"Strong, Fisher Judd",Fisher Strong,20,Adult,Yes,,8/4/2024,Yes,
+"Peugh, William Dale",William Peugh,11,Kid,Yes,Said no Feb 2026,10/27/2024,,
+"Tanner, Violet Marilyn",Violet Tanner,11,Kid,Yes,Said no Feb 2026,10/27/2024,,
+"Daybell, Lisa",Lisa Daybell,62,Adult,Yes,,11/10/2024,,Valiant Activities Leader
+"Garrett, Mckenzi Mae",Mckenzi Garrett,16,Kid,Yes,Said no Feb 2026,12/8/2024,,
+"McClellan, Daniel Scott",Daniel McClellan,35,Adult,Yes,,1/12/2025,,Ward Executive Secretary
+"McClellan, Shamae Budd",Shamae McClellan,35,Adult,Yes,,1/12/2025,,Relief Society Secretary
+"Grigg, Stuart Leon",Stuart Grigg,61,Adult,Yes,,1/19/2025,,
+"Nielsen, Teresa Ann",Teresa Nielsen,57,Adult,Yes,,2/9/2025,,
+"Gough, Max Travis",Max Gough,19,Adult,Yes,,3/2/2025,,Ward Missionary
+"Middlebrook, Jordan Marcus",Jordan Middlebrook,37,Adult,Yes,,3/9/2025,,Building Representative
+"Forshay, Hillary Beth",Hillary Forshay,44,Adult,Yes,,3/16/2025,,Ward MissionaryRelief Society Teacher
+"Farnsworth, Travis LeGrande",Travis Farnsworth,39,Adult,Yes,,3/16/2025,,Elders Quorum Activity CoordinatorElders Quorum Teacher
+"Acero, Jessica Marie",Jessica Acero,46,Adult,Yes,,3/23/2025,,Ward Temple and Family History Consultant
+"Gay, Scott Alexander",Scott Gay,67,Adult,Yes,,3/30/2025,,Sunday School Secretary
+"Martineau, William Owen",William Martineau,82,Adult,Yes,,4/13/2025,,Seniors Activities Coordinator
+"Parry, Grant Connell",Grant Parry,38,Adult,Yes,,4/20/2025,,Block CaptainSunday School First Counselor
+"Alvaro, Lemuel Jim Pizarro",Lemuel Alvaro,59,Adult,Yes,,4/27/2025,,
+"Parry, Greyson Connell",Greyson Parry,12,Kid,Yes,,4/27/2025,,Deacons Quorum First Counselor
+"Parry, Evelyn Mariah",Evelyn Parry,10,Kid,Yes,,5/4/2025,,
+"Parry, Kimberly Mariah",Kimberly Parry,36,Adult,Yes,,5/4/2025,,
+"Miller, Lindsey Rae",Lindsey Miller,47,Adult,Yes,,5/11/2025,,Young Women Second Counselor
+"Miller, Macy Rae",Macy Miller,18,Kid,Yes,,5/11/2025,,
+"Lifferth, BriAnne",BriAnne Lifferth,33,Adult,Yes,,5/18/2025,,Young Women President
+"Young, Helen Sharece Kathleen",Helen Young,51,Adult,Yes,,5/18/2025,,Relief Society Activity Committee MemberPrimary Teacher
+"Newby, Declan Smith",Declan Newby,9,Kid,Yes,,5/25/2025,,
+"Strong, Richard Judd",Richard Strong,44,Adult,Yes,,6/1/2025,,Primary Teacher
+"Strong, Richard Walker",Richard Strong,17,Kid,Yes,,6/1/2025,,Priests Quorum First Assistant
+"Tanner, Tyson Darrell",Tyson Tanner,17,Kid,Yes,,6/1/2025,,Priests Quorum Second Assistant
+"Grosland, Robin",Robin Grosland,57,Adult,Yes,,6/15/2025,,Primary Teacher
+"Peugh, Christopher Alan",Christopher Peugh,45,Adult,Yes,,6/15/2025,,Resource Center Specialist
+"Peugh, Elisabeth Ruby",Elisabeth Peugh,17,Kid,Yes,,6/22/2025,,Young Women Class President
+"Peugh, Victoria Jeanette",Victoria Peugh,43,Adult,Yes,,6/22/2025,,Resource Center Specialist
+"Gay, Dona",Dona Gay,61,Adult,Yes,,6/29/2025,,Stake Primary First Counselor
+"Tanner, Ryker Bradley",Ryker Tanner,11,Kid,Yes,,6/29/2025,,
+"Brown, Brodie Daniels",Brodie Brown,28,Adult,Yes,,7/6/2025,,Ward Mission Leader
+"Newby, Payton Dayne",Payton Newby,38,Adult,Yes,,7/6/2025,,Bishopric First Counselor
+"Brown, Megan Rachael",Megan Brown,29,Adult,Yes,,7/13/2025,,Valiant Activities Leader
+"Taylor, Eliza Grace",Eliza Taylor,12,Kid,Yes,,7/13/2025,,
+"Carr, AnnaLisa",AnnaLisa Carr,33,Adult,Yes,,7/20/2025,,Primary Second Counselor
+"Carr, Andrew Newberry",Andrew Carr,34,Adult,Yes,,7/27/2025,,Primary Pianist
+"Hansen, Katie Julianne",Katie Hansen,51,Adult,Yes,,7/27/2025,,Relief Society Activity Committee Member
+"Brown, Kali Nicole",Kali Brown,32,Adult,Yes,,8/3/2025,,Sunday School Teacher
+"Garlock, Gordon Hooyah",Gordon Garlock,11,Kid,Yes,,8/10/2025,,
+"Paxton, Mark Webber",Mark Paxton,64,Adult,Yes,,8/17/2025,,Elders Quorum Secretary
+"Miller, Layla Patricia",Layla Miller,17,Kid,Yes,,8/24/2025,,
+"Roth, Laurel Lavon",Laurel Roth,76,Adult,Yes,,8/24/2025,,Relief Society Pianist
+"Miller, Margaret Terri",Margaret Miller,15,Kid,Yes,,8/31/2025,,
+"Curtis, Shawn Matthew",Shawn Curtis,24,Adult,Yes,,9/7/2025,,Sunday School Teacher
+"Miller, Brian Kirk",Brian Miller,42,Adult,Yes,,9/7/2025,,Teachers Quorum Adviser
+"Harrison, Ginger Ann",Ginger Harrison,50,Adult,Yes,,9/14/2025,,Sunday School Teacher
+"Curtis, Alyssa Mae",Alyssa Curtis,24,Adult,Yes,,9/14/2025,,Young Women Class Adviser
+"Brown, Dallin Wade",Dallin Brown,36,Adult,Yes,,9/21/2025,,
+"Brown, Grayson Wade",Grayson Brown,9,Kid,Yes,,9/21/2025,,
+"Miller, Cole Glenn",Cole Miller,14,Kid,Yes,,9/28/2025,,Teachers Quorum First Counselor
+"Clark, Marsha Jean",Marsha Clark,52,Adult,Yes,,10/12/2025,,Primary TeacherPrimary TeacherPrimary Teacher
+"Parker, Ellie Claire",Ellie Parker,35,Adult,Yes,,10/12/2025,,Relief Society First Counselor
+"Cutler, Manhattyn Mahala",Manhattyn Cutler,14,Kid,Yes,,10/19/2025,,Young Women Class President
+"Hylton, Caleb Lee",Caleb Hylton,14,Kid,Yes,,10/26/2025,,Teachers Quorum Second Counselor
+"Hansen, Samuel Fjeldsted",Samuel Hansen,19,Adult,Yes,,11/2/2025,,Ward Missionary
+"Taylor, Mary Lynn",Mary Taylor,75,Adult,Yes,,11/2/2025,,
+"Garlock, Lindsay Ann",Lindsay Garlock,38,Adult,Yes,,11/9/2025,,
+"Sargent, Martha Jeanne",Martha Sargent,80,Adult,Yes,,11/9/2025,,Music LeaderMusic Coordinator
+"Hansen, Michael Allen",Michael Hansen,53,Adult,Yes,,11/16/2025,,BishopPriests Quorum President
+"Roylance, Karl Arch",Karl Roylance,67,Adult,Yes,,11/16/2025,,Elders Quorum Service Coordinator
+"Gough, Acadia Rose",Acadia Gough,13,Kid,Yes,,11/23/2025,,
+"Newby, Judith Peace",Judith Newby,37,Adult,Yes,,11/23/2025,,Relief Society Service Committee Member
+"Hansen, Gilbert Ray",Gilbert Hansen,69,Adult,Yes,,11/30/2025,,Primary TeacherBlock Captain
+"Parker, Stewart Donald",Stewart Parker,62,Adult,Yes,,11/30/2025,,Stake Assistant Clerk--FinancePrimary TeacherStake Financial Clerk
+"Gough, Cynthia",Cynthia Gough,43,Adult,Yes,,12/7/2025,,Primary First Counselor
+"Parker, Debra Kae",Debra Parker,62,Adult,Yes,,12/7/2025,,Primary Teacher
+"Gough, Travis Jefferson",Travis Gough,43,Adult,Yes,,12/14/2025,,Buidling SecurityBlock Captain
+"Lifferth, Ryan William",Ryan Lifferth,38,Adult,Yes,,12/14/2025,,Priests Quorum AdviserBlock Captain
+"Hansen, Karen Jean",Karen Hansen,71,Adult,Yes,,12/21/2025,,Primary Teacher
+"Hoffman, Carly Nicole",Carly Hoffman,33,Adult,Yes,,12/21/2025,,Young Women Class Adviser
+"Forshay, Timothy Saint Clair",Timothy Forshay,49,Adult,Yes,,12/28/2025,,Block CaptainWard Assistant Clerk--Finance
+"Young, Kathleen Helen",Kathleen Young,76,Adult,Yes,,12/28/2025,,Relief Society Second Counselor
+"Tanner, Heather Marilyn",Heather Tanner,43,Adult,Yes,,1/4/2026,,
+"Young, Karl David",Karl Young,76,Adult,Yes,,1/4/2026,,
+"Zavala Castro, Agustin",Castro Zavala,49,Adult,Yes,,1/11/2026,,
+"Alvaro, Rizalyn Montenegro Romo",Rizalyn Alvaro,60,Adult,Yes,,1/18/2026,,Relief Society Activity Coordinator
+"Hoffman, Daniel Jason",Daniel Hoffman,37,Adult,Yes,,1/18/2026,,Emergency Preparedness
+"Cutler, Holly Sheryl",Holly Cutler,54,Adult,Yes,,2/1/2026,,
+"Gurney, Scot Earl",Scot Gurney,62,Adult,Yes,,2/1/2026,,Ward Missionary
+"Gurney, Lara Elise",Lara Gurney,57,Adult,Yes,,2/8/2026,,Ward Temple and Family History Consultant
+"Tanner, Dustin Bradley",Dustin Tanner,49,Adult,Yes,,2/8/2026,,Primary Teacher
+"Price, Brady Spencer",Brady Price,29,Adult,Yes,,2/15/2026,,Prayer CoordinatorWard Assistant Clerk
+"Garrett, Victoria Mae",Victoria Garrett,43,Adult,Yes,,2/22/2026,,Valiant Activities Leader
+"Cutler, Crosby Boulton",Crosby Cutler,16,Kid,Yes,,3/1/2026,,
+"Cutler, Devin Jens",Devin Cutler,20,Adult,Yes,,3/1/2026,,Ward Missionary
+"Cutler, Devin Vern",Devin Cutler,54,Adult,Yes,,3/1/2026,,Sunday School President
+"Taylor, Thomasina Ilene Morris",Thomasina Taylor,38,Adult,Yes,,3/8/2026,,Ward Missionary
+"Grosland, Jessica Dianne",Jessica Grosland,36,Adult,Yes,,3/8/2026,,Relief Society Teacher
+"Isbell, Donna Fay",Donna Isbell,74,Adult,Yes,,3/15/2026,,Temple Worker
+"Rosenlof, Ross Christian",Ross Rosenlof,30,Adult,Yes,,3/15/2026,,Baptismal Font CoordinatorStake High Councilor
+"Simonsen, Nancy",Nancy Simonsen,61,Adult,Yes,,3/22/2026,,Stake Relief Society SecretaryTemple Worker
+"Smith, Cassidy Savannah",Cassidy Smith,30,Adult,Yes,,3/22/2026,,Young Women Secretary
+"McDonnell, Mariah Grace",Mariah McDonnell,33,Adult,Yes,,3/29/2026,,Valiant Activities Leader
+"Rosenlof, Sarah",Sarah Rosenlof,30,Adult,Yes,,3/29/2026,,Primary President
+"Hartman, Megan Sue",Megan Hartman,29,Adult,Yes,,4/12/2026,,Primary Teacher
+"Hartman, Colby Ric",Colby Hartman,29,Adult,Yes,,4/12/2026,,Deacons Quorum Adviser
+"Hanks, Jennifer Nicole",Jennifer Hanks,36,Adult,Yes,,4/19/2026,,Ward Activities Committee
+"Rowley, Jason William",Jason Rowley,26,Adult,Yes,,4/19/2026,,Sunday School Teacher
+"Capozzoli, Kimberly Kay",Kimberly Capozzoli,61,Adult,Yes,,4/26/2026,,Sunday School Teacher
+"Rawle, Sarah Michelle",Sarah Rawle,33,Adult,Yes,,4/26/2026,,Primary Secretary
+"Smith, Hayden Douglas",Hayden Smith,29,Adult,Yes,,5/3/2026,,Ward Temple and Family History Leader
+"Rowley, Amelia Kate",Amelia Rowley,27,Adult,Yes,,5/10/2026,,
+"Haws, Halle Kate",Halle Haws,25,Adult,Yes,,5/10/2026,,Young Women First Counselor
+"Hanks, Nathan Brett",Nathan Hanks,37,Adult,Yes,,5/17/2026,,Ward Activities Committee
+"Smoot, Skylar Christian",Skylar Smoot,33,Adult,Yes,,5/17/2026,,
+"Haws, Keller Morgan",Keller Haws,25,Adult,Yes,,5/24/2026,,Elders Quorum First Counselor
+"Myers, Thomas Lee Allen",Thomas Myers,66,Adult,Yes,,5/24/2026,,Temple Prep TeacherNursery LeaderPrimary Teacher
+"Larkin, Sheldon Ray",Sheldon Larkin,82,Adult,Yes,,5/31/2026,,
+"Roylance, Carol Deann",Carol Roylance,65,Adult,Yes,,5/31/2026,,Relief Society Service Coordinator
+"Huffman, Hunter Roland",Hunter Huffman,32,Adult,Yes,,6/14/2026,,Elders Quorum President
+"Huffman, McKae Lorraine",McKae Huffman,9,Kid,Yes,,6/14/2026,,
+"Palmer, McKenzie",McKenzie Palmer,33,Adult,Yes,,6/21/2026,,
+"Grigg, Jennifer Diane",Jennifer Grigg,61,Adult,Yes,,6/21/2026,,Stake Primary President
+"Garrett, Lucy Victoria",Lucy Garrett,13,Kid,Yes,Said no Oct 2025,6/28/2026,,Young Women Class Second Counselor
+"Price, Brenna Marie",Brenna Price,29,Adult,Yes,,7/5/2026,,Temple WorkerPrimary Teacher
+"Huffman, Keri Gail",Keri Huffman,34,Adult,Yes,,7/5/2026,,Stake Relief Society Specialist AdvisorValiant Activities Leader
+"Finlinson, Melanie Rose",Melanie Finlinson,28,Adult,Yes,,7/12/2026,,Primary Teacher
+"Finlinson, Andrew Layne",Andrew Finlinson,30,Adult,Yes,,7/19/2026,,Primary Teacher
+"Smoot, Erin Marjorie",Erin Smoot,29,Adult,Yes,,7/19/2026,,Relief Society Teacher
+"Curtis, Lance Williamson",Lance Curtis,69,Adult,Yes,,7/26/2026,,Temple WorkerEmergency PreparednessStake Building RepresentativeStake Emergency PreparednessStake High Councilor
+"Bailey, Teri Lynn",Teri Bailey,65,Adult,,,,,
+"Baker, Morgan",Morgan Baker,41,Adult,,,,,
+"Bataluna, Danielle Lyn Ahelani",Danielle Bataluna,18,Kid,,,,,
+"Bataluna, Kari Lyn Kaleokalani",Kari Bataluna,21,Adult,,,,,
+"Birch, Sydnee Gweneth",Sydnee Birch,28,Adult,,,,,
+"Bona, Jerilynn",Jerilynn Bona,66,Adult,,,,,
+"Palmer, Nathan Ray",Nathan Palmer,32,Adult,Yes,,7/26/2026,,Ward Clerk
+"Jacobson, Prince",Prince Jacobson,58,Adult,Yes,,8/2/2026,,Primary TeacherNursery LeaderBlock Captain
+"Butler, Jordan Tyler",Jordan Butler,47,Adult,,,,,
+"Cobbley, Sheila",Sheila Cobbley,69,Adult,,,,,
+"Curtis, Leslie",Leslie Curtis,66,Adult,No,,,,
+"Darnell, Heidi Lyn",Heidi Darnell,52,Adult,,,,,
+"Schroeder, Rebecca",Rebecca Schroeder,76,Adult,Yes,,8/2/2026,,Choir AccompanistRelief Society Service Committee Member
+"Dimick, Karissa LaRue",Karissa Dimick,31,Adult,,,,,
+"Myers, Julie",Julie Myers,60,Adult,Yes,,8/9/2026,,Temple Prep TeacherPrimary TeacherNursery LeaderRelief Society Activity Committee Member
+"Floyd, Robert Charles",Robert Floyd,71,Adult,,,,,
+"Frechem, Hollie",Hollie Frechem,56,Adult,,,,,
+"Hales, Ilene",Ilene Hales,73,Adult,,,,,
+"Hawker, Gabrielle May",Gabrielle Hawker,28,Adult,,,,,
+"Newby, Xander Mason",Xander Newby,12,Kid,Yes,,8/9/2026,,Deacons Quorum Second Counselor
+"Irvine, Madalyn",Madalyn Irvine,24,Adult,,,,,
+"Strong, Mallori",Mallori Strong,44,Adult,Yes,,8/16/2026,,Relief Society President
+"Jones, Clarissa",Clarissa Jones,30,Adult,,,,,
+"Laehn, Dean Christoph",Dean Laehn,28,Adult,,,,,
+"Logsdon, Lyla Star",Lyla Logsdon,18,Kid,,,,,
+"Maughan, Emily",Emily Maughan,33,Adult,,,,,
+"Mauss, Anthony John",Anthony Mauss,33,Adult,,,,,
+"Mauss, Cheri Lee",Cheri Mauss,59,Adult,,,,,
+"Mauss, Lindsay Christine",Lindsay Mauss,35,Adult,,,,,
+"Maye, Maliyah",Maliyah Maye,22,Adult,,,,,
+"McGregor, Wendy",Wendy McGregor,58,Adult,,,,,
+"Miller, Jacob William",Jacob Miller,31,Adult,,,,,
+"Mortezazadeh, Sidney",Sidney Mortezazadeh,28,Adult,,,,,
+"Oldroyd, Kimberly Lou",Kimberly Oldroyd,32,Adult,,,,,
+"Padilla, Selena",Selena Padilla,25,Adult,,,,,
+"Rhodes, Shannon Dawn",Shannon Rhodes,60,Adult,,,,,
+"Russell, Reva Beth",Reva Russell,78,Adult,,,,,
+"Hansen, Elizabeth Diane",Elizabeth Hansen,38,Adult,Yes,,8/16/2026,,Primary Music Leader
+"Sargent, Isaac",Isaac Sargent,29,Adult,,,,,
+"Capozzoli, Jeffrey",Jeffrey Capozzoli,61,Adult,Yes,,8/23/2026,,Elders Quorum Second Counselor
+"Scott, Ryan M",Ryan Scott,52,Adult,,,,,
+"Millet, Natalya Marie",Natalya Millet,26,Adult,Yes,,8/23/2026,,Sunday School Teacher
+"Torsak, Kaden Joshua",Kaden Torsak,16,Kid,,,,,
+"Torsak, Sara Nicole",Sara Torsak,30,Adult,,,,,
+"Wall, Roylynn",Roylynn Wall,54,Adult,,,,,
+"Watkins, Tracey Lee",Tracey Watkins,59,Adult,,,,,
+"Willden, Charlotte Alberta",Charlotte Willden,59,Adult,No,,,,
+"Acero, Alex Russell",Alex Acero,22,Adult,,,,,
+"Acero, Melissa Helen",Melissa Acero,13,Kid,,,,,
+"Allen, Toni Virginia",Toni Allen,55,Adult,,,,,
+"Allred, Aubrey Marie",Aubrey Allred,40,Adult,,,,,
+"Rawle, Jesse Peterson",Jesse Rawle,35,Adult,Yes,,8/30/2026,,Block CaptainBishopric Second Counselor
+"Anderson, Bradley Nathan",Bradley Anderson,40,Adult,,,,,
+"Anderson, Harrison Wade",Harrison Anderson,13,Kid,,,,,
+"Gough, Lydia Mae",Lydia Gough,15,Kid,Yes,,8/30/2026,,Young Women Class Second Counselor
+"Alban Angulo, David Enrique",Angulo Alban,16,Kid,Yes,,,,
+"Anderson, Trevor Nathan",Trevor Anderson,10,Kid,,,,,
+"Angulo Cobarrubias, Saria",Cobarrubias Angulo,47,Adult,,,,,
+"Baker, Claire Marie",Claire Baker,19,Adult,,,,,
+"Baker, Cooper Jerrid",Cooper Baker,17,Kid,,,,,
+"Baker, Jerrid D",Jerrid Baker,44,Adult,,,,,
+"Balcer, Mark Philip",Mark Balcer,59,Adult,,,,,
+"Bass, Clayborne",Clayborne Bass,77,Adult,,,,,
+"Blackwell, Amelia Rose",Amelia Blackwell,10,Kid,,,,,
+"Alban Angulo, Dieter Luis",Angulo Alban,12,Kid,Yes,,,,Deacons Quorum President
+"Blackwell, Oliver William",Oliver Blackwell,9,Kid,,,,,
+"Boman, Paul Victor Sr",Paul Boman,100,Adult,,,,,
+"Bona, David Wayne",David Bona,66,Adult,,,,,
+"Boothe, Mathew C",Mathew Boothe,57,Adult,,,,,
+"Alban Angulo, Sariana Kate",Angulo Alban,14,Kid,Yes,,,,
+"Bready, Connor Richard",Connor Bready,35,Adult,,,,,
+"Brierley, Justin Rex",Justin Brierley,34,Adult,,,,,
+"Brown, Robert Louis",Robert Brown,68,Adult,,,,,
+"Alban Valda, Luis Enrique",Valda Alban,48,Adult,Yes,,,,Sunday School Second Counselor
+"Carlson, Jane Winn Jasperson",Jane Carlson,77,Adult,,,,,
+"Carlson, Rex Philip",Rex Carlson,80,Adult,,,,,
+"Christopherson, Troy Leon",Troy Christopherson,55,Adult,,,,,
+"Clark, Joshua Jason",Joshua Clark,24,Adult,,,,,
+"Cloward, Jennifer Robin",Jennifer Cloward,53,Adult,,,,,
+"Cloward, Steven Jay",Steven Cloward,54,Adult,,,,,
+"Cobbley, Joseph William",Joseph Cobbley,65,Adult,,,,,
+"Cottle, Elizabeth Arin",Elizabeth Cottle,31,Adult,,,,,
+"Cozzens, Sofia Jane",Sofia Cozzens,10,Kid,,,,,
+"Bready, Halee Bryner",Halee Bready,32,Adult,Maybe,,,,
+"Curtis, Ashley Marie",Ashley Curtis,41,Adult,,,,,
+"Curtis, Harold Lee",Harold Curtis,65,Adult,,,,,
+"Curtis, Hunter Skip",Hunter Curtis,16,Kid,,,,,
+"Curtis, Justin Skip",Justin Curtis,46,Adult,,,,,
+"Curtis, River Kya",River Curtis,11,Kid,,,,,
+"Curtis, Tammy Jean",Tammy Curtis,59,Adult,,,,,
+"Curtis, Zoie Maie",Zoie Curtis,19,Adult,,,,,
+"Davila Olivares, Elvira Brisceidy",Olivares Davila,36,Adult,,,,,
+"Daybell, Drew Ray",Drew Daybell,35,Adult,,,,,
+"Daybell, Steven Ray",Steven Daybell,58,Adult,,,,,
+"DeWaal, Kaitlyn Elizabeth",Kaitlyn DeWaal,31,Adult,,,,,
+"Degn, Debra Kae",Debra Degn,70,Adult,,,,,
+"Degn, Lawrence Evans",Lawrence Degn,78,Adult,,,,,
+"Dewey, David Jack",David Dewey,13,Kid,,,,,
+"Diamond, Christine",Christine Diamond,37,Adult,,,,,
+"Brown, Deanna",Deanna Brown,81,Adult,Yes,,,,Ward Temple and Family History Consultant
+"Davila Olivares, Jeniffer Priscila",Olivares Davila,29,Adult,Yes,,,,Valiant Activities Leader
+"Blackwell, Holly Maria",Holly Blackwell,39,Adult,No,Said no Aug 2025,,,Relief Society Communication Specialist
+"Ettinger, Courtney Taylor",Courtney Ettinger,28,Adult,,,,,
+"Evans, Audrey Jo",Audrey Evans,27,Adult,,,,,
+"Evans, Jackson Donald",Jackson Evans,29,Adult,,,,,
+"Ensign, Mariana Villa",Mariana Ensign,41,Adult,Yes,,,,
+"Francis, Karla Jean",Karla Francis,60,Adult,,,,,
+"Frandsen, William Edwin",William Frandsen,67,Adult,,,,,
+"Garlock, Avril Ann",Avril Garlock,10,Kid,,,,,
+"Hylton, Elliott Blain",Elliott Hylton,15,Kid,Yes,,,,Teachers Quorum President
+"Garrett, James Hinckley",James Garrett,10,Kid,,,,,
+"Sargeant, Arlyn",Arlyn Sargeant,40,Adult,Yes,Asked 4 times with no reply,,,Nursery Leader
+"Gile, Heather A",Heather Gile,50,Adult,,,,,
+"Golding, Kevin Fitzpatrick",Kevin Golding,65,Adult,,,,,
+"Gough, Adelie Jo",Adelie Gough,10,Kid,,,,,
+"Graham, Alice Thomsen Petersen",Alice Graham,88,Adult,,,,,
+"Grigg, Noah Samuel",Noah Grigg,29,Adult,,,,,
+"Grosland, Caroline Celeste",Caroline Grosland,31,Adult,,,,,
+"Gurney, Julie Anna",Julie Gurney,28,Adult,,,,,
+"Hales, James Mark",James Hales,74,Adult,,,,,
+"Hales, John Neal",John Hales,47,Adult,,,,,
+"Hales, Michael Reed",Michael Hales,44,Adult,,,,,
+"Hales, Steven Earl",Steven Hales,48,Adult,,,,,
+"Hancock, Jeffrey Joseph",Jeffrey Hancock,44,Adult,,,,,
+"Hancock, Jerrica Kimberly",Jerrica Hancock,38,Adult,,,,,
+"Anderson, Becky Linda",Becky Anderson,44,Adult,Yes,,,,Primary Pianist
+"Hansen, Joseph Allen",Joseph Hansen,25,Adult,,,,,
+"Hansen, Mary Emmaline F.",Mary Hansen,22,Adult,,,,,
+"Hansen, Peter Fjeldsted",Peter Hansen,16,Kid,,,,,
+"Hansen, Ricky Lynn",Ricky Hansen,72,Adult,,,,,
+"Hardman, Deric Jon",Deric Hardman,30,Adult,,,,,
+"Hardman, Paige Ann",Paige Hardman,25,Adult,,,,,
+"Harrison, Daniel Brennan",Daniel Harrison,23,Adult,,,,,
+"Harrison, Joseph Tanner",Joseph Harrison,25,Adult,,,,,
+"Helmer, Montgomery Raine",Montgomery Helmer,32,Adult,,,,,
+"Henderson, Taylor McKay",Taylor Henderson,35,Adult,,,,,
+"Anderson, Loraine Renae",Loraine Anderson,15,Kid,Yes,,,,Young Women Class First Counselor
+"Hoppe, Joy L",Joy Hoppe,88,Adult,,,,,
+"Hoppe, Linda Lee",Linda Hoppe,65,Adult,,,,,
+"Horton, Donald La Mar",Donald Horton,91,Adult,,,,,
+"Horton, Floss Johnson",Floss Horton,90,Adult,,,,,
+"Howarth, Scott Thomas",Scott Howarth,62,Adult,,,,,
+"Hylton, Caroline Jean",Caroline Hylton,9,Kid,,,,,
+"Hylton, Elizabeth Anne",Elizabeth Hylton,41,Adult,,,,,
+"Hylton, Owen Axel",Owen Hylton,12,Kid,,,,,
+"Hylton, Stephen John",Stephen Hylton,47,Adult,,,,,
+"Anderson, Matthew David",Matthew Anderson,27,Adult,Yes,,,,Sunday School TeacherSunday School Teacher
+"Jensen, Patricia Ann",Patricia Jensen,78,Adult,,,,,
+"Jensen, Raymond Burnell",Raymond Jensen,77,Adult,,,,,
+"Johnson, Brent D",Brent Johnson,74,Adult,,,,,
+"Johnson, Katelyn Clara",Katelyn Johnson,25,Adult,,,,,
+"Johnson, Samuel Aaron",Samuel Johnson,25,Adult,,,,,
+"Jones, Jacob Winsor",Jacob Jones,29,Adult,,,,,
+"Bott, Helen Jo",Helen Bott,80,Adult,Yes,,,,Relief Society Service Committee Member
+"Dibble Holmstead, Alyssa Colette",Holmstead Dibble,23,Adult,Yes,,,,Primary Teacher
+"Larkin, Shirley May",Shirley Larkin,81,Adult,,,,,
+"Larsen, Cody Joseph Jr",Cody Larsen,29,Adult,,,,,
+"Levengood, Cole Thomas",Cole Levengood,19,Adult,,,,,
+"Levengood, Devon Jacob Alexander",Devon Levengood,17,Kid,,,,,
+"Levengood, Laura Lee",Laura Levengood,46,Adult,,,,,
+"Levengood, Quinn Carter",Quinn Levengood,22,Adult,,,,,
+"Levengood, Richard Garrett",Richard Levengood,47,Adult,,,,,
+"Levengood, Rishy Lee",Rishy Levengood,24,Adult,,,,,
+"Logsdon, Avery Kristine",Avery Logsdon,14,Kid,,,,,
+"Logsdon, Hazel Kay",Hazel Logsdon,9,Kid,,,,,
+"Logsdon, Jay Christopher",Jay Logsdon,39,Adult,,,,,
+"Logsdon, Jessie Star",Jessie Logsdon,38,Adult,,,,,
+"Lundell, Phillip Keith",Phillip Lundell,34,Adult,,,,,
+"Lytle, Ashton Williamson",Ashton Lytle,22,Adult,,,,,
+"Lytle, Gavin Ray",Gavin Lytle,19,Adult,,,,,
+"Marble, Megann Leigh",Megann Marble,39,Adult,,,,,
+"Marble, Skylar Michael",Skylar Marble,41,Adult,,,,,
+"Marchant, Claudia Denice",Claudia Marchant,78,Adult,,,,,
+"Garrett, Dustin James",Dustin Garrett,45,Adult,No,,,,Valiant Activities LeaderValiant Activities Leader
+"Matheson, Donavan J",Donavan Matheson,26,Adult,,,,,
+"Matheson, Russell J",Russell Matheson,58,Adult,,,,,
+"Maughan, Jeffrey Spencer",Jeffrey Maughan,37,Adult,,,,,
+"Mauss, John Gordon",John Mauss,59,Adult,,,,,
+"Maye, Marcus Douglas",Marcus Maye,29,Adult,,,,,
+"Maye, Sean Mitchell",Sean Maye,32,Adult,,,,,
+"Duncan, Virginia",Virginia Duncan,76,Adult,Yes,,,,Temple WorkerSeniors Activities Coordinator
+"McDonald, Danielle Heloise",Danielle McDonald,39,Adult,,,,,
+"McDonnell, Alice Rose",Alice McDonnell,9,Kid,,,,,
+"Etchison, Kent Lee",Kent Etchison,52,Adult,Yes,,,,Primary TeacherPrimary Teacher
+"Gay, Corban George",Corban Gay,21,Adult,Yes,,,,Ward Missionary
+"Miller, Caroline Paige",Caroline Miller,8,Kid,,,,,
+"Miller, Mark Brennon",Mark Miller,50,Adult,,,,,
+"Miller, Rosemary",Rosemary Miller,11,Kid,,,,,
+"Holmstead, Lot Dax",Lot Holmstead,23,Adult,Yes,,,,Primary TeacherPrimary Teacher
+"Mortezazadeh, Alexander Hamid",Alexander Mortezazadeh,31,Adult,,,,,
+"Jacobson, Mary Ilene",Mary Jacobson,55,Adult,Yes,,,,Primary TeacherNursery Leader
+"Nelson, Gary Todd",Gary Nelson,72,Adult,,,,,
+"Nielsen, Eric Martin",Eric Nielsen,36,Adult,,,,,
+"Norton, Marsha Kaye",Marsha Norton,72,Adult,,,,,
+"Okelberry, Alexis Ann",Alexis Okelberry,29,Adult,,,,,
+"Parker, Bailee June",Bailee Parker,24,Adult,,,,,
+"Kennan, Jennifer Leigh",Jennifer Kennan,53,Adult,Yes,,,,Primary TeacherPrimary Teacher
+"Kennan, Katerina",Katerina Kennan,25,Adult,Yes,,,,Primary Teacher
+"Petersen, Lance William",Lance Petersen,66,Adult,,,,,
+"McDonnell, Zachary Jack",Zachary McDonnell,36,Adult,Yes,,,,Primary Music Leader
+"Peugh, Christopher Alan II",Christopher Peugh,13,Kid,,,6/15/2025,,
+"Peugh, Katherine Ruth",Katherine Peugh,8,Kid,,,,,
+"Peugh, Samantha Rose",Samantha Peugh,15,Kid,,,,,
+"Rivera, Armani Jaydale",Armani Rivera,14,Kid,,,,,
+"Miller, Barbara Laverne",Barbara Miller,40,Adult,Yes,,,,Sunday School Teacher
+"Rodriguez, Jessica Marie",Jessica Rodriguez,37,Adult,,,,,
+"Rodriguez, Mikhail Yakov",Mikhail Rodriguez,38,Adult,,,,,
+"Rodriguez, Rayne",Rayne Rodriguez,10,Kid,,,,,
+"Roper, Autumn Diane",Autumn Roper,27,Adult,,,,,
+"Roper, Morgan Jane",Morgan Roper,23,Adult,,,,,
+"Roth, Robert Bruce",Robert Roth,77,Adult,,,,,
+"Russell, Layna Dyan",Layna Russell,52,Adult,,,,,
+"Russell, Warren Keith",Warren Russell,83,Adult,,,,,
+"Sanchez Hernandez, Emmanuel David",Hernandez Sanchez,47,Adult,,,,,
+"Sargeant, Christopher Bryan",Christopher Sargeant,39,Adult,,,,,
+"Saybolt, Ashtyn Rayann",Ashtyn Saybolt,20,Adult,,,,,
+"Saybolt, Attikus Shawn Reddan",Attikus Saybolt,14,Kid,,,,,
+"Saybolt, Kallie Jane",Kallie Saybolt,44,Adult,,,,,
+"Saybolt, Maggie Ariel",Maggie Saybolt,16,Kid,,,,,
+"Saybolt, Molly Lorraine",Molly Saybolt,18,Kid,,,,,
+"Schneider, Ginny Rebekah",Ginny Schneider,43,Adult,,,,,
+"Shepherd, Layton David",Layton Shepherd,27,Adult,,,,,
+"Simonsen, Brynley Ryan",Brynley Simonsen,16,Kid,,,,,
+"Simonsen, Geoffrey William",Geoffrey Simonsen,40,Adult,,,,,
+"Simonsen, Jessie Nichol",Jessie Simonsen,39,Adult,,,,,
+"Simonsen, Zane Bronson",Zane Simonsen,20,Adult,,,,,
+"Payne, Howell Sherman Jr",Howell Payne,89,Adult,Yes,,,,Ward Temple and Family History Consultant
+"Smith, Daniel James",Daniel Smith,48,Adult,,,,,
+"Starks, Julie Nicole",Julie Starks,45,Adult,,,,,
+"Steele, Mona Lou",Mona Steele,96,Adult,,,,,
+"Stokes, Jari Lynn",Jari Stokes,67,Adult,,,,,
+"Robinson, Sherry Lynn",Sherry Robinson,64,Adult,Yes,,,,Relief Society Service Committee Member
+"Strong, Taylor Mary",Taylor Strong,13,Kid,,,,,
+"Tanner, Bodie Riley",Bodie Tanner,11,Kid,,,,,
+"Sipes, Roberta Annette",Roberta Sipes,74,Adult,Yes,,,,Primary Teacher
+"Taylor, Hazel Ilene",Hazel Taylor,10,Kid,,,,,
+"Thomas, Lily Danielle Langtry",Lily Thomas,52,Adult,,,,,
+"Thulin, Sarah Lou",Sarah Thulin,34,Adult,,,,,
+"Torsak, Lydia Dyan",Lydia Torsak,18,Kid,,,,,
+"Torsak, Preston Alexander",Preston Torsak,24,Adult,,,,,
+"Torsak, Shyla Elyzabyth",Shyla Torsak,22,Adult,,,,,
+"Uresk, Carter Matthew",Carter Uresk,20,Adult,,,,,
+"Uresk, Dustin Quinn",Dustin Uresk,44,Adult,,,,,
+"Uresk, Gracie Karen",Gracie Uresk,21,Adult,,,,,
+"Uresk, Isabella Joy",Isabella Uresk,18,Kid,,,,,
+"Uresk, Karlee Joy",Karlee Uresk,46,Adult,,,,,
+"Strong, Sidney MarJean",Sidney Strong,12,Kid,Yes,,,,Young Women Class First Counselor
+"Wilkinson, Tiffany Ann",Tiffany Wilkinson,44,Adult,,,,,
+"Wininger, Logan Jack",Logan Wininger,26,Adult,,,,,
+"Wood, Brycen Thomas",Brycen Wood,31,Adult,,,,,
+"Tanner, Maximus Frazier",Maximus Tanner,14,Kid,Yes,,,,Teachers Quorum Secretary
+"Wood, Tyrell Brandon",Tyrell Wood,10,Kid,,,,,
+"Worley, Myriah Evelyn",Myriah Worley,30,Adult,,,,,
+"Weight, Daniel Pack",Daniel Weight,56,Adult,Yes,,,,Technology Specialist
+"Wood, Marissa Ruth",Marissa Wood,26,Adult,Yes,,,,Young Women Class Adviser
+"Young, Marcy Ray",Marcy Young,47,Adult,,,,,
+"Zavala, Braxton Kyde",Braxton Zavala,19,Adult,Yes,,,,Ward Missionary
+"Zavala, Jamie Kay",Jamie Zavala,49,Adult,,,,,
+"Zufelt, Billie Gilbert",Billie Zufelt,80,Adult,,,,,
